@@ -98,7 +98,3 @@ A interpretação dos resultados deve considerar que:
 ## Como executar
 
 Abra o arquivo `analise_voos_anac_2025.ipynb` no Jupyter Notebook e execute as células em sequência.
-
-O ambiente deve ter pandas, Matplotlib e Jinja2 instalados, além de acesso à internet para importar os dados da ANAC.
-
-Vitória de Alencastro Dias
