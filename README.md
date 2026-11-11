@@ -74,7 +74,8 @@ A Gol apresentou as menores taxas anuais nos três indicadores, tanto nas opera�
 
 ### Variação mensal
 
-- A Gol apresentou a menor taxa de cancelamento em oito meses de cada tipo de operação.
+- Nos cancelamentos domésticos, a Gol apresentou a menor taxa em sete meses, e a Azul, em cinco.
+- Nos cancelamentos internacionais, a Gol apresentou a menor taxa em oito meses, e a Latam Brasil, em quatro.
 - Dezembro registrou as maiores taxas domésticas de atraso na chegada nas três companhias.
 - Nas operações internacionais, a Gol apresentou a menor taxa de atraso na chegada em todos os meses.
 
